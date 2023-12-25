@@ -12,7 +12,7 @@ This project provides a Rich Presence integration for Neodori Forever. It will d
 
 ## Installation - Normal method (Faster)
 
-1. Be sure that NieR:Automata is installed on your system
+1. Be sure that Neodori Forever is installed on your system
 2. Download the zip file from the [release page](https://github.com/LoulouNoLegend/NeodoriForever_RPC/releases)
 3. Navigate to the game folder
 4. Extract the two files (`steam_api64.dll` and `NeodoriForeverRPC.dll`)
@@ -20,7 +20,7 @@ This project provides a Rich Presence integration for Neodori Forever. It will d
 
 ## Installation - Alternative method
 
-1. Be sure that NieR:Automata is installed on your system
+1. Be sure that Neodori Forever is installed on your system
 2. Download the zip file from the [release page](https://github.com/LoulouNoLegend/NeodoriForever_RPC/releases)
 3. Navigate to the game folder
 6. Rename `steam_api64.dll` to `NeodoriForeverRPC.dll`
@@ -41,3 +41,4 @@ This project provides a Rich Presence integration for Neodori Forever. It will d
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
