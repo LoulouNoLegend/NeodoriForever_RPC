@@ -3,6 +3,8 @@
 This project is based on [Crymachina RPC](https://github.com/Crymachina-modding/crymachina_rpc), using the commit published on december 4, 2023.
 Visit this page to know how it all works! *(and maybe start your own RPC project)*
 
+The mod can be found on Nexus Mods [here](https://www.nexusmods.com/neodoriforever/mods/1)!
+
 ## Overview
 
 **At the moment, this Rich Presence is only static!**
